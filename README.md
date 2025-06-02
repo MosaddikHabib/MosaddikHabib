@@ -13,10 +13,10 @@
 
 - 🎓 B.Sc. in Computer Science & Engineering  
 - 🏢 Working at **ICT Tower**, Agargaon  
-- 💼 **ML Intern** @ CodeAlpha  
+- 💼 **Intern** @ Raj IT Solution Ltd.  
 - 🔍 NLP & QnA Generator for Bengali Public Services (EBLICT Project)  
 - 💬 Passionate about **AI**, **Data**, and **Automation**  
-- 📍 Currently in **Mohammadpur, Dhaka**  
+- 📍  in **Shyamoli, Dhaka**  
 - 🧠 Dreaming big with **AI for Social Impact**  
 
 ---
