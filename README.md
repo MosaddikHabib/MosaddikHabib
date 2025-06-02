@@ -42,10 +42,6 @@
 </p>
 
 
----
-
-### 💻 Languages I Use Most
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosaddikHabib&layout=compact&theme=radical&langs_count=8" alt="Top Langs" />
 </p>
