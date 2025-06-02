@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Machine Learning Enthusiast | Data Annotator | AI for Public Service 🌍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%8C%9F+CSE+Graduate+%F0%9F%8E%93;%F0%9F%93%9D+Data+Annotator+%7C+NLP+%7C+Computer+Vision+%F0%9F%96%8C%EF%B8%8F;%F0%9F%8C%90+AI+for+Social+Impact+%7C+ML+Intern+%40+rajIT+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%F0%9F%93%8D+Based+in+Shyamoli%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%8C%9F+CSE+Graduate+%F0%9F%8E%93;%F0%9F%93%9D+Data+Annotator+%7C+NLP+%7C+Computer+Vision+%F0%9F%96%8C%EF%B8%8F;%F0%9F%8C%90+AI+for+Social+Impact+%7C+Intern+%40+rajIT+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%F0%9F%93%8D+Based+in+Shyamoli%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%AD" alt="Typing SVG" />
 </p>
 
 
