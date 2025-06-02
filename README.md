@@ -1,68 +1,89 @@
-<h1 align="center">Hi there, I'm Mosaddik Habib 👋</h1>
+<h1 align="center">👋 Hello, I'm <span style="color:#38BDF8;">Mosaddik Habib</span>!</h1>
+<h3 align="center">🚀 Machine Learning Enthusiast | Data Annotator | AI for Public Service 🌍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Data+Enthusiast+%7C+AI+Explorer;Computer+Science+Graduate+%7C+ML+Intern;Python+%7C+NLP+%7C+Computer+Vision;Always+Learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=500&lines=Fresh+CSE+Graduate+%F0%9F%92%BB;ML+Intern+%40+CodeAlpha+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Data+Annotator+%7C+NLP+%7C+Computer+Vision;Based+in+Mohammadpur%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%AD" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🎓 Fresh graduate in **Computer Science & Engineering** from **Jamalpur Science and Technology University**  
-- 💼 Currently working as an **ML Intern at CodeAlpha** & **Data Annotator** under the **EBLICT Project (ICT Division, Bangladesh)**  
-- 📍 Based in **Mohammadpur**, working at **ICT Tower, Agargaon**
-- 🔍 Passionate about **AI for Social Good**, **Data Science**, **Computer Vision**, and **NLP**
-- 💡 Actively contributing to datasets like `BanQA`, `BanServ2SQL`, and `BanConvComm`
-- 📊 Interested in building impactful AI tools for **public service** and **low-resource languages**
+### 🌟 About Me
 
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLOv5-00BCF2?style=flat-square&logo=github&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-FF4081?style=flat-square)
-![Kivy](https://img.shields.io/badge/-Kivy-FF7043?style=flat-square&logo=python)
+- 🎓 B.Sc. in Computer Science & Engineering  
+- 🏢 Working at **ICT Tower**, Agargaon  
+- 💼 **ML Intern** @ CodeAlpha  
+- 🔍 NLP & QnA Generator for Bengali Public Services (EBLICT Project)  
+- 💬 Passionate about **AI**, **Data**, and **Automation**  
+- 📍 Currently in **Mohammadpur, Dhaka**  
+- 🧠 Dreaming big with **AI for Social Impact**  
 
 ---
 
-### 🌱 Currently Exploring
+<details>
+  <summary>🧰 My Favorite Tools & Skills</summary>
 
-- 🗣️ Emotion Recognition from Voice  
-- 🧠 NLP & Bengali Question-Answer Generation  
-- 🛰️ Web Scraping & Automation  
-- 📱 Android App Development using **Kivy**
+  ### 💻 Languages & Frameworks:
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![YOLOv5](https://img.shields.io/badge/-YOLOv5-00BCF2?style=for-the-badge&logo=github&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Kivy](https://img.shields.io/badge/-Kivy-FF7043?style=for-the-badge&logo=python)
+  ![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-4B0082?style=for-the-badge)
+
+  ### 🌐 Web Tools:
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:your.email@example.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mosaddikhabib" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/MosaddikHabib" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MosaddikHabib&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MosaddikHabib&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MosaddikHabib&show_icons=true&theme=radical" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MosaddikHabib&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MosaddikHabib&theme=gruvbox&row=1&column=6" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+### 🧠 Current Focus
 
-> I use AI to build AI.  
-> I love turning ideas into data-driven solutions 💡📈
+- 🎙️ Voice-based Emotion Recognition  
+- 🗃️ Automating QnA generation in Bengali  
+- 📊 Improving Data Pipelines & Crawlers  
+- 📱 Building Python-based Android apps (Kivy)
+
+---
+
+### 📫 Reach Out to Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mosaddikhabib"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MosaddikHabib"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 💬 Fun Quote
+
+> "The best way to predict the future is to **build** it." — Alan Kay
+
+---
+
+### 🏙️ Skyline View of My Repos
+
+<p align="center">
+  <img width="100%" src="https://github.com/MosaddikHabib/MosaddikHabib/blob/main/assets/github-skyline.gif" alt="GitHub Skyline">
+</p>
 
 ---
 
