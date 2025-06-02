@@ -65,10 +65,7 @@
 - 📱 Building Python-based Android apps (Kivy)
 
 ---
-
-<div align="center">
   ### 📫 Reach Out to Me
-</div>
 
 <p align="center">
   <a href="mailto:m.habib0407@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
