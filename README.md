@@ -87,6 +87,8 @@
 <p align="center">
   <img width="100%" src="https://github.com/MosaddikHabib/MosaddikHabib/blob/main/assets/github-skyline.gif" alt="GitHub Skyline">
 </p>
+🌐 View my dynamic GitHub skyline at:  
+👉 [MosaddikHabib's GitHub Skyline](https://skyline.github.com/MosaddikHabib/2024)
 
 ---
 
