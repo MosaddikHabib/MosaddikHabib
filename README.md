@@ -25,32 +25,22 @@
 ### 🧰 My Favorite Tools & Skills
 
 <p align="center">
-
-<b>💻 Languages & Frameworks</b><br><br>
-
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/-YOLOv5-00BCF2?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Kivy-FF7043?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/-CustomTkinter-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-ttkinter-008080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-ttkbootstrap-7952B3?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-YOLOv5-00BCF2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kivy-FF7043?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/-CustomTkinter-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-ttkinter-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-ttkbootstrap-7952B3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<p align="center">
-
-<b>🌐 Web Tools</b><br><br>
-
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
 
 ---
 
