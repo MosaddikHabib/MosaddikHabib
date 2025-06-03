@@ -48,16 +48,14 @@
 
 ---
 
-### 📊 GitHub Stats & Achievements
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MosaddikHabib&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MosaddikHabib&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MosaddikHabib&show_icons=true&theme=radical" width="60%">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MosaddikHabib&theme=gruvbox&row=1&column=6" />
-</p>
+---
+
 
 ---
 
