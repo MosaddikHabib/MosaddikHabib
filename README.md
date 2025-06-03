@@ -13,7 +13,7 @@
 ### 🌟 About Me
 
  > 🎓 B.Sc. in Computer Science & Engineering  
- > 🏢 Working at <h3>Dream71 Bangladesh Ltd.</h3>, **ICT Tower**, Agargaon  
+ > 🏢 Working at **Dream71 Bangladesh Ltd.**, **ICT Tower**, Agargaon  
  > 💼 **Intern** @ Raj IT Solution Ltd.  
  > 🔍 NLP & QnA Generator for Bengali Public Services (EBLICT Project)  
  > 💬 Passionate about **AI**, **Data**, and **Automation**  
