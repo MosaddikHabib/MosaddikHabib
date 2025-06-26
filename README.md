@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/-YOLOv5-0D6EFD?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ttkinter-008080?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ttkinter-008080?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-ttkbootstrap-6F42C1?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CustomTkinter-4B0082?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kivy-2C3E50?style=for-the-badge&logo=python&logoColor=white"/>
