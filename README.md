@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/-YOLOv5-0D6EFD?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/-ttkinter-008080?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ttkbootstrap-6F42C1?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CustomTkinter-4B0082?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ttkbootstrap-6F42C1?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CustomTkinter-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kivy-2C3E50?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
